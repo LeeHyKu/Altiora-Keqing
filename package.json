@@ -1,0 +1,35 @@
+{
+  "name": "keqing",
+  "version": "1.1.0",
+  "description": "Kakaotalk bot, Universal, Scaleable and Modifiable Solution, Node.js(TS4) \"Keqing\"",
+  "license": "GPL-v3.0",
+  "main": "app.js",
+  "author": {
+    "name": "Hyun-Ku Lee",
+    "email": "harry9111@naver.com",
+    "url": "https://github.com/LeeHyKu"
+  },
+  "scripts": {
+    "build": "tsc --build",
+    "clean": "tsc --build --clean",
+    "start": "bash Keqing.sh"
+  },
+  "devDependencies": {
+    "@types/body-parser": "^1.19.0",
+    "@types/express": "^4.17.9",
+    "@types/jsonfile": "^6.0.0",
+    "@types/mongodb": "^3.5.34",
+    "@types/node": "^14.14.9",
+    "typescript": "4.1.2"
+  },
+  "dependencies": {
+    "axios": "^0.21.0",
+    "body-parser": "^1.19.0",
+    "chalk": "^4.1.0",
+    "express": "^4.17.1",
+    "jsonfile": "^6.1.0",
+    "mongodb": "^3.6.3",
+    "node-kakao": "^3.1.6",
+    "socket.io": "^3.0.4"
+  }
+}

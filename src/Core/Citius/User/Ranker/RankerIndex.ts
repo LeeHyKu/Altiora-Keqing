@@ -1,0 +1,1 @@
+export default interface RankerIndex { global: number; globalAll: number; local?: number; }

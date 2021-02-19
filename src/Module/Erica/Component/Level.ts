@@ -1,0 +1,1 @@
+export default interface Level { totalExp: number; level: number; restExp: number; entireExp: number; }
