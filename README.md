@@ -2,6 +2,9 @@
 **Deploy repo, Kakaotalk bot, Universal, Scaleable and Modifiable Solution, Node.js(TS4) "Keqing"**<br>
 2020년 11월 24일부터 2021년 1월 18일까지 진행한 프로젝트입니다.<br>
 본 레포는 배포용 입니다.
+## 아카이브
+본 프로젝트는 [node-kakao](https://github.com/storycraft/node-kakao)의 구버전을 사용하므로 현재 실행이 불가능한(접속시 영구정지) 상태입니다.<br>
+따라서 본 리포지토리는 참고용으로 사용해주시기 바랍니다.
 ## 라이선스
 본 소스코드는 GPLv3로 배포되므로 **응용/확장 등 본 소스코드를 이용하여 제작한 채팅봇은 소스코드를 공개해야 됩니다.**
 ## 주의사항
